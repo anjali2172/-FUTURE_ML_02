@@ -38,7 +38,7 @@ The workspace displays exact token extraction data transparently. It shows custo
 📋 Production-Ready Session Memory Queue
 Maintains an active dynamic operational table that allows helpdesk teams to inspect tickets and sort live tracking records based on Priority Ranks System Ticket IDs, or Alphabetical Classification Categories
 
-⚙️ Core Technical Pipeline
+
 
 The lightweight architecture processes string input streams through a deterministic linear pipeline before returning normalized class probabilities:
 
